@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey! I'm Noah. I recently finished an intense 800 hour web-development course in which I went from having no knowledge of programming, to building the projects pinned below. These projects are rough, no doubt, but they show my learning and ability to collaborate over a period of 17 weeks. Monster Mash is the latest project I worked on, and will continue to work on in order to continue my learning.
 
 <!--
 **noah-russell/noah-russell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
